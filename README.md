@@ -24,3 +24,6 @@ Main Features:
 🪟 Collapsible Handle (#toc-handle): A vertical "TOC" tab on the side that toggles the panel in and out.
 
 🔄 Auto-refresh: Automatically watches for new messages via MutationObserver, updating the TOC every time something changes.
+
+Credits
+Based on original idea/code from Brostoffed on GitHub Gist https://gist.github.com/Brostoffed
